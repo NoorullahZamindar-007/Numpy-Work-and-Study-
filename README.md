@@ -12,12 +12,7 @@ Numpy Work and Study
                                                                                                      
                                                                                                            
                                                                                  
-                                                                                                                                                                                    
-                                                                                        
-                                                                                                                                                                                                                               
-                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                              
+                                                                                                                     
                                                                                                                                                                                                     
                                                                                                                                                                                          
                                                                                                                              
