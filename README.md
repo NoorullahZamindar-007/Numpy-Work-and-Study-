@@ -7,10 +7,5 @@ Numpy Work and Study
                                                   
                                                                                                       
                                                                                                                                       
-                                                     
-           
-                                     
-                                                     
-                                   
-           
-                  
+                                                                   
+  
