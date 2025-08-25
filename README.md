@@ -4,9 +4,4 @@ Numpy Work and Study
                 
                                   
                                   
-                                                  
-                                                                                                      
-                                                                                                                                
-                                 
-              
-                    
+                                                                           
