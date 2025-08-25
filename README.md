@@ -6,13 +6,4 @@ Numpy Work and Study
                                   
                                                   
                                                                                                       
-                                                                                                                                                       
-         
-                                                  
-              
-                                  
-                                       
-                   
-              
-                     
-                    
+                                                                                                                                
