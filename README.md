@@ -6,7 +6,7 @@ Numpy Work and Study
                                                  
                                                                                                                                  
                    
-                                    
+                                    n 
                          
           m  
   
