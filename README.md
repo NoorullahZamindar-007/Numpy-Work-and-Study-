@@ -1,4 +1,4 @@
-g     # Numpy-Work-and-Study-
+  g     # Numpy-Work-and-Study-
 Numpy Work and Study 
                 
                  
